@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/move_empty.png</file>
+        <file>resources/move_empty_hover.png</file>
+        <file>resources/move_piece.png</file>
+        <file>resources/move_selected.png</file>
+        <file>resources/check.png</file>
+        <file>resources/last_move.png</file>
+        <file>resources/themes/default/white/bishop.png</file>
+        <file>resources/themes/default/white/king.png</file>
+        <file>resources/themes/default/white/knight.png</file>
+        <file>resources/themes/default/white/pawn.png</file>
+        <file>resources/themes/default/white/queen.png</file>
+        <file>resources/themes/default/white/rook.png</file>
+        <file>resources/themes/default/board/black_tile.png</file>
+        <file>resources/themes/default/board/white_tile.png</file>
+        <file>resources/themes/default/black/bishop.png</file>
+        <file>resources/themes/default/black/king.png</file>
+        <file>resources/themes/default/black/knight.png</file>
+        <file>resources/themes/default/black/pawn.png</file>
+        <file>resources/themes/default/black/queen.png</file>
+        <file>resources/themes/default/black/rook.png</file>
+        <file>resources/empty.png</file>
+        <file>resources/random_king.png</file>
+        <file>resources/themes/default/random_king.png</file>
+        <file>resources/flags/flag-russia.png</file>
+        <file>resources/flags/flag-usa.png</file>
+        <file>resources/icons/chess_material.ico</file>
+    </qresource>
+</RCC>
