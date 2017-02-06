@@ -37,4 +37,4 @@ If you did all right you will get this structure:
                 └── *.obj
 ```
 
-*Note: qmake generates additional 'release' and 'debug' folders in **GeneratedFiles** folder and I didn't figured out yet how to make it not to generate them.*
+*Note: qmake generates additional 'release' and 'debug' folders in __GeneratedFiles__ folder and I didn't figured out yet how to make it not to generate them.*
