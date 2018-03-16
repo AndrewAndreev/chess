@@ -1,9 +1,9 @@
-![chess-logo](https://dl.dropboxusercontent.com/u/94468957/logo/chess/chess_logo.png)
+![chess-logo](https://github.com/AndrewAndreev/chess/blob/master/logo.png)
 # Chess
 Cross-platform Qt based application for playing chess through network.
 
 # Screenshots
-![screenshot](https://dl.dropboxusercontent.com/u/94468957/logo/chess/screenshots/screenshot.png)
+![screenshot](https://github.com/AndrewAndreev/chess/blob/master/screenshot01.png)
 
 # TODO list
 > **Features:** (In order of their priority)
